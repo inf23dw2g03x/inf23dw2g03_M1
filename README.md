@@ -2,9 +2,8 @@
 
 ### Overview
 
-A aplicação que desenvolvemos tem como função facilitar a adoção de animais.
-É possível adicionar uma nova pessoa (adotante), um novo animal, um novo voluntário e uma nova adoção.
-Será possível também editar ou eliminar entradas de cada uma das instâncias anteriores.
+A aplicação que desenvolvemos tem como função demonstrar uma camada de serviços REST protegida com uma camada de AUtenticação e Autorização para disponibilizar os recursos para uma apllicação Web.
+É possível não só obter animais, adoções, pessoas, voluntários e doações, mas também criar, eliminar e dar update.
 
 Projeto feito por:
 
@@ -57,7 +56,12 @@ docker pull inf23dw2g03x/inf23dw2g03_M1:node
 git clone: https://github.com/inf23dw2g03x
 ```
 
-> Second, inside of the project folder, open the terminal / prompt / bash and do a docker compose up:
+> Second, inside of the project folder, open the terminal / prompt / bash and do npm install:
 ```
-docker compose up -d --build
+npm install
+```
+
+> Lastly, do npm install, make sure that your MySQL is open and working:
+```
+npm start
 ```
