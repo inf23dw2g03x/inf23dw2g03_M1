@@ -43,21 +43,21 @@ Do a docker pull of the images:
 
 > Mysql:
 ```
-docker pull inf23dw2g03/inf23dw2g03:mysql (...)
+docker pull inf23dw2g03x/inf23dw2g03_M1:mysql
 ```
 > NodeJS APP:
 ```
-docker pull inf23dw2g03/inf23dw2g03:node (...)
+docker pull inf23dw2g03x/inf23dw2g03_M1:node
 ```
 
 ### Instruções para o código funcionar:
 
 > First, create a clone of the project from github to your machine:
 ```
-git clone: https://github.com/inf23dw2g03 (...)
+git clone: https://github.com/inf23dw2g03x
 ```
 
 > Second, inside of the project folder, open the terminal / prompt / bash and do a docker compose up:
 ```
-docker compose up -d --build (...)
+docker compose up -d --build
 ```
