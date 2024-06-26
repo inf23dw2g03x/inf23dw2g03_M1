@@ -24,9 +24,9 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/animal/:id",
+									"raw": "localhost:3080/animal/:id",
 									"host": [
-										"{{baseUrl}}"
+										"localhost:3080"
 									],
 									"path": [
 										"animal",
@@ -53,9 +53,9 @@
 											}
 										],
 										"url": {
-											"raw": "{{baseUrl}}/animal/:id",
+											"raw": "localhost:3080/animal/:id",
 											"host": [
-												"{{baseUrl}}"
+												"localhost:3080"
 											],
 											"path": [
 												"animal",
@@ -86,9 +86,9 @@
 										"method": "GET",
 										"header": [],
 										"url": {
-											"raw": "{{baseUrl}}/animal/:id",
+											"raw": "localhost:3080/animal/:id",
 											"host": [
-												"{{baseUrl}}"
+												"localhost:3080"
 											],
 											"path": [
 												"animal",
@@ -114,9 +114,9 @@
 										"method": "GET",
 										"header": [],
 										"url": {
-											"raw": "{{baseUrl}}/animal/:id",
+											"raw": "localhost:3080/animal/:id",
 											"host": [
-												"{{baseUrl}}"
+												"localhost:3080"
 											],
 											"path": [
 												"animal",
@@ -163,9 +163,9 @@
 									}
 								},
 								"url": {
-									"raw": "{{baseUrl}}/animal/:id",
+									"raw": "localhost:3080/animal/:id",
 									"host": [
-										"{{baseUrl}}"
+										"localhost:3080"
 									],
 									"path": [
 										"animal",
@@ -206,9 +206,9 @@
 											}
 										},
 										"url": {
-											"raw": "{{baseUrl}}/animal/:id",
+											"raw": "localhost:3080/animal/:id",
 											"host": [
-												"{{baseUrl}}"
+												"localhost:3080"
 											],
 											"path": [
 												"animal",
@@ -254,9 +254,9 @@
 											}
 										},
 										"url": {
-											"raw": "{{baseUrl}}/animal/:id",
+											"raw": "localhost:3080/animal/:id",
 											"host": [
-												"{{baseUrl}}"
+												"localhost:3080"
 											],
 											"path": [
 												"animal",
@@ -297,9 +297,9 @@
 											}
 										},
 										"url": {
-											"raw": "{{baseUrl}}/animal/:id",
+											"raw": "localhost:3080/animal/:id",
 											"host": [
-												"{{baseUrl}}"
+												"localhost:3080"
 											],
 											"path": [
 												"animal",
@@ -327,9 +327,9 @@
 								"method": "DELETE",
 								"header": [],
 								"url": {
-									"raw": "{{baseUrl}}/animal/:id",
+									"raw": "localhost:3080/animal/:id",
 									"host": [
-										"{{baseUrl}}"
+										"localhost:3080"
 									],
 									"path": [
 										"animal",
@@ -351,9 +351,9 @@
 										"method": "DELETE",
 										"header": [],
 										"url": {
-											"raw": "{{baseUrl}}/animal/:id",
+											"raw": "localhost:3080/animal/:id",
 											"host": [
-												"{{baseUrl}}"
+												"localhost:3080"
 											],
 											"path": [
 												"animal",
@@ -379,9 +379,9 @@
 										"method": "DELETE",
 										"header": [],
 										"url": {
-											"raw": "{{baseUrl}}/animal/:id",
+											"raw": "localhost:3080/animal/:id",
 											"host": [
-												"{{baseUrl}}"
+												"localhost:3080"
 											],
 											"path": [
 												"animal",
@@ -416,9 +416,9 @@
 							}
 						],
 						"url": {
-							"raw": "{{baseUrl}}/animal",
+							"raw": "localhost:3080/animal",
 							"host": [
-								"{{baseUrl}}"
+								"localhost:3080"
 							],
 							"path": [
 								"animal"
@@ -437,9 +437,9 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/animal",
+									"raw": "localhost:3080/animal",
 									"host": [
-										"{{baseUrl}}"
+										"localhost:3080"
 									],
 									"path": [
 										"animal"
@@ -485,9 +485,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{baseUrl}}/animal",
+							"raw": "localhost:3080/animal",
 							"host": [
-								"{{baseUrl}}"
+								"localhost:3080"
 							],
 							"path": [
 								"animal"
@@ -520,9 +520,9 @@
 									}
 								},
 								"url": {
-									"raw": "{{baseUrl}}/animal",
+									"raw": "localhost:3080/animal",
 									"host": [
-										"{{baseUrl}}"
+										"localhost:3080"
 									],
 									"path": [
 										"animal"
@@ -559,9 +559,9 @@
 							}
 						],
 						"url": {
-							"raw": "{{baseUrl}}/adoption",
+							"raw": "localhost:3080/adoption",
 							"host": [
-								"{{baseUrl}}"
+								"localhost:3080"
 							],
 							"path": [
 								"adoption"
@@ -580,9 +580,9 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/adoption",
+									"raw": "localhost:3080/adoption",
 									"host": [
-										"{{baseUrl}}"
+										"localhost:3080"
 									],
 									"path": [
 										"adoption"
@@ -628,9 +628,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{baseUrl}}/adoption",
+							"raw": "localhost:3080/adoption",
 							"host": [
-								"{{baseUrl}}"
+								"localhost:3080"
 							],
 							"path": [
 								"adoption"
@@ -663,9 +663,9 @@
 									}
 								},
 								"url": {
-									"raw": "{{baseUrl}}/adoption",
+									"raw": "localhost:3080/adoption",
 									"host": [
-										"{{baseUrl}}"
+										"localhost:3080"
 									],
 									"path": [
 										"adoption"
@@ -705,9 +705,9 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/Adoption/:id",
+									"raw": "localhost:3080/Adoption/:id",
 									"host": [
-										"{{baseUrl}}"
+										"localhost:3080"
 									],
 									"path": [
 										"Adoption",
@@ -734,9 +734,9 @@
 											}
 										],
 										"url": {
-											"raw": "{{baseUrl}}/Adoption/:id",
+											"raw": "localhost:3080/Adoption/:id",
 											"host": [
-												"{{baseUrl}}"
+												"localhost:3080"
 											],
 											"path": [
 												"Adoption",
@@ -767,9 +767,9 @@
 										"method": "GET",
 										"header": [],
 										"url": {
-											"raw": "{{baseUrl}}/Adoption/:id",
+											"raw": "localhost:3080/Adoption/:id",
 											"host": [
-												"{{baseUrl}}"
+												"localhost:3080"
 											],
 											"path": [
 												"Adoption",
@@ -795,9 +795,9 @@
 										"method": "GET",
 										"header": [],
 										"url": {
-											"raw": "{{baseUrl}}/Adoption/:id",
+											"raw": "localhost:3080/Adoption/:id",
 											"host": [
-												"{{baseUrl}}"
+												"localhost:3080"
 											],
 											"path": [
 												"Adoption",
@@ -844,9 +844,9 @@
 									}
 								},
 								"url": {
-									"raw": "{{baseUrl}}/Adoption/:id",
+									"raw": "localhost:3080/Adoption/:id",
 									"host": [
-										"{{baseUrl}}"
+										"localhost:3080"
 									],
 									"path": [
 										"Adoption",
@@ -887,9 +887,9 @@
 											}
 										},
 										"url": {
-											"raw": "{{baseUrl}}/Adoption/:id",
+											"raw": "localhost:3080/Adoption/:id",
 											"host": [
-												"{{baseUrl}}"
+												"localhost:3080"
 											],
 											"path": [
 												"Adoption",
@@ -935,9 +935,9 @@
 											}
 										},
 										"url": {
-											"raw": "{{baseUrl}}/Adoption/:id",
+											"raw": "localhost:3080/Adoption/:id",
 											"host": [
-												"{{baseUrl}}"
+												"localhost:3080"
 											],
 											"path": [
 												"Adoption",
@@ -978,9 +978,9 @@
 											}
 										},
 										"url": {
-											"raw": "{{baseUrl}}/Adoption/:id",
+											"raw": "localhost:3080/Adoption/:id",
 											"host": [
-												"{{baseUrl}}"
+												"localhost:3080"
 											],
 											"path": [
 												"Adoption",
@@ -1008,9 +1008,9 @@
 								"method": "DELETE",
 								"header": [],
 								"url": {
-									"raw": "{{baseUrl}}/Adoption/:id",
+									"raw": "localhost:3080/Adoption/:id",
 									"host": [
-										"{{baseUrl}}"
+										"localhost:3080"
 									],
 									"path": [
 										"Adoption",
@@ -1032,9 +1032,9 @@
 										"method": "DELETE",
 										"header": [],
 										"url": {
-											"raw": "{{baseUrl}}/Adoption/:id",
+											"raw": "localhost:3080/Adoption/:id",
 											"host": [
-												"{{baseUrl}}"
+												"localhost:3080"
 											],
 											"path": [
 												"Adoption",
@@ -1060,9 +1060,9 @@
 										"method": "DELETE",
 										"header": [],
 										"url": {
-											"raw": "{{baseUrl}}/Adoption/:id",
+											"raw": "localhost:3080/Adoption/:id",
 											"host": [
-												"{{baseUrl}}"
+												"localhost:3080"
 											],
 											"path": [
 												"Adoption",
@@ -1105,9 +1105,9 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/Volunteer/:id",
+									"raw": "localhost:3080/Volunteer/:id",
 									"host": [
-										"{{baseUrl}}"
+										"localhost:3080"
 									],
 									"path": [
 										"Volunteer",
@@ -1134,9 +1134,9 @@
 											}
 										],
 										"url": {
-											"raw": "{{baseUrl}}/Volunteer/:id",
+											"raw": "localhost:3080/Volunteer/:id",
 											"host": [
-												"{{baseUrl}}"
+												"localhost:3080"
 											],
 											"path": [
 												"Volunteer",
@@ -1167,9 +1167,9 @@
 										"method": "GET",
 										"header": [],
 										"url": {
-											"raw": "{{baseUrl}}/Volunteer/:id",
+											"raw": "localhost:3080/Volunteer/:id",
 											"host": [
-												"{{baseUrl}}"
+												"localhost:3080"
 											],
 											"path": [
 												"Volunteer",
@@ -1195,9 +1195,9 @@
 										"method": "GET",
 										"header": [],
 										"url": {
-											"raw": "{{baseUrl}}/Volunteer/:id",
+											"raw": "localhost:3080/Volunteer/:id",
 											"host": [
-												"{{baseUrl}}"
+												"localhost:3080"
 											],
 											"path": [
 												"Volunteer",
@@ -1244,9 +1244,9 @@
 									}
 								},
 								"url": {
-									"raw": "{{baseUrl}}/Volunteer/:id",
+									"raw": "localhost:3080/Volunteer/:id",
 									"host": [
-										"{{baseUrl}}"
+										"localhost:3080"
 									],
 									"path": [
 										"Volunteer",
@@ -1287,9 +1287,9 @@
 											}
 										},
 										"url": {
-											"raw": "{{baseUrl}}/Volunteer/:id",
+											"raw": "localhost:3080/Volunteer/:id",
 											"host": [
-												"{{baseUrl}}"
+												"localhost:3080"
 											],
 											"path": [
 												"Volunteer",
@@ -1335,9 +1335,9 @@
 											}
 										},
 										"url": {
-											"raw": "{{baseUrl}}/Volunteer/:id",
+											"raw": "localhost:3080/Volunteer/:id",
 											"host": [
-												"{{baseUrl}}"
+												"localhost:3080"
 											],
 											"path": [
 												"Volunteer",
@@ -1378,9 +1378,9 @@
 											}
 										},
 										"url": {
-											"raw": "{{baseUrl}}/Volunteer/:id",
+											"raw": "localhost:3080/Volunteer/:id",
 											"host": [
-												"{{baseUrl}}"
+												"localhost:3080"
 											],
 											"path": [
 												"Volunteer",
@@ -1408,9 +1408,9 @@
 								"method": "DELETE",
 								"header": [],
 								"url": {
-									"raw": "{{baseUrl}}/Volunteer/:id",
+									"raw": "localhost:3080/Volunteer/:id",
 									"host": [
-										"{{baseUrl}}"
+										"localhost:3080"
 									],
 									"path": [
 										"Volunteer",
@@ -1432,9 +1432,9 @@
 										"method": "DELETE",
 										"header": [],
 										"url": {
-											"raw": "{{baseUrl}}/Volunteer/:id",
+											"raw": "localhost:3080/Volunteer/:id",
 											"host": [
-												"{{baseUrl}}"
+												"localhost:3080"
 											],
 											"path": [
 												"Volunteer",
@@ -1460,9 +1460,9 @@
 										"method": "DELETE",
 										"header": [],
 										"url": {
-											"raw": "{{baseUrl}}/Volunteer/:id",
+											"raw": "localhost:3080/Volunteer/:id",
 											"host": [
-												"{{baseUrl}}"
+												"localhost:3080"
 											],
 											"path": [
 												"Volunteer",
@@ -1497,9 +1497,9 @@
 							}
 						],
 						"url": {
-							"raw": "{{baseUrl}}/Volunteer",
+							"raw": "localhost:3080/Volunteer",
 							"host": [
-								"{{baseUrl}}"
+								"localhost:3080"
 							],
 							"path": [
 								"Volunteer"
@@ -1518,9 +1518,9 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/Volunteer",
+									"raw": "localhost:3080/Volunteer",
 									"host": [
-										"{{baseUrl}}"
+										"localhost:3080"
 									],
 									"path": [
 										"Volunteer"
@@ -1566,9 +1566,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{baseUrl}}/Volunteer",
+							"raw": "localhost:3080/Volunteer",
 							"host": [
-								"{{baseUrl}}"
+								"localhost:3080"
 							],
 							"path": [
 								"Volunteer"
@@ -1601,9 +1601,9 @@
 									}
 								},
 								"url": {
-									"raw": "{{baseUrl}}/Volunteer",
+									"raw": "localhost:3080/Volunteer",
 									"host": [
-										"{{baseUrl}}"
+										"localhost:3080"
 									],
 									"path": [
 										"Volunteer"
@@ -1643,9 +1643,9 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/Donation/:id",
+									"raw": "localhost:3080/Donation/:id",
 									"host": [
-										"{{baseUrl}}"
+										"localhost:3080"
 									],
 									"path": [
 										"Donation",
@@ -1672,9 +1672,9 @@
 											}
 										],
 										"url": {
-											"raw": "{{baseUrl}}/Donation/:id",
+											"raw": "localhost:3080/Donation/:id",
 											"host": [
-												"{{baseUrl}}"
+												"localhost:3080"
 											],
 											"path": [
 												"Donation",
@@ -1705,9 +1705,9 @@
 										"method": "GET",
 										"header": [],
 										"url": {
-											"raw": "{{baseUrl}}/Donation/:id",
+											"raw": "localhost:3080/Donation/:id",
 											"host": [
-												"{{baseUrl}}"
+												"localhost:3080"
 											],
 											"path": [
 												"Donation",
@@ -1733,9 +1733,9 @@
 										"method": "GET",
 										"header": [],
 										"url": {
-											"raw": "{{baseUrl}}/Donation/:id",
+											"raw": "localhost:3080/Donation/:id",
 											"host": [
-												"{{baseUrl}}"
+												"localhost:3080"
 											],
 											"path": [
 												"Donation",
@@ -1782,9 +1782,9 @@
 									}
 								},
 								"url": {
-									"raw": "{{baseUrl}}/Donation/:id",
+									"raw": "localhost:3080/Donation/:id",
 									"host": [
-										"{{baseUrl}}"
+										"localhost:3080"
 									],
 									"path": [
 										"Donation",
@@ -1825,9 +1825,9 @@
 											}
 										},
 										"url": {
-											"raw": "{{baseUrl}}/Donation/:id",
+											"raw": "localhost:3080/Donation/:id",
 											"host": [
-												"{{baseUrl}}"
+												"localhost:3080"
 											],
 											"path": [
 												"Donation",
@@ -1873,9 +1873,9 @@
 											}
 										},
 										"url": {
-											"raw": "{{baseUrl}}/Donation/:id",
+											"raw": "localhost:3080/Donation/:id",
 											"host": [
-												"{{baseUrl}}"
+												"localhost:3080"
 											],
 											"path": [
 												"Donation",
@@ -1916,9 +1916,9 @@
 											}
 										},
 										"url": {
-											"raw": "{{baseUrl}}/Donation/:id",
+											"raw": "localhost:3080/Donation/:id",
 											"host": [
-												"{{baseUrl}}"
+												"localhost:3080"
 											],
 											"path": [
 												"Donation",
@@ -1946,9 +1946,9 @@
 								"method": "DELETE",
 								"header": [],
 								"url": {
-									"raw": "{{baseUrl}}/Donation/:id",
+									"raw": "localhost:3080/Donation/:id",
 									"host": [
-										"{{baseUrl}}"
+										"localhost:3080"
 									],
 									"path": [
 										"Donation",
@@ -1970,9 +1970,9 @@
 										"method": "DELETE",
 										"header": [],
 										"url": {
-											"raw": "{{baseUrl}}/Donation/:id",
+											"raw": "localhost:3080/Donation/:id",
 											"host": [
-												"{{baseUrl}}"
+												"localhost:3080"
 											],
 											"path": [
 												"Donation",
@@ -1998,9 +1998,9 @@
 										"method": "DELETE",
 										"header": [],
 										"url": {
-											"raw": "{{baseUrl}}/Donation/:id",
+											"raw": "localhost:3080/Donation/:id",
 											"host": [
-												"{{baseUrl}}"
+												"localhost:3080"
 											],
 											"path": [
 												"Donation",
@@ -2035,9 +2035,9 @@
 							}
 						],
 						"url": {
-							"raw": "{{baseUrl}}/Donation",
+							"raw": "localhost:3080/Donation",
 							"host": [
-								"{{baseUrl}}"
+								"localhost:3080"
 							],
 							"path": [
 								"Donation"
@@ -2056,9 +2056,9 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/Donation",
+									"raw": "localhost:3080/Donation",
 									"host": [
-										"{{baseUrl}}"
+										"localhost:3080"
 									],
 									"path": [
 										"Donation"
@@ -2104,9 +2104,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{baseUrl}}/Donation",
+							"raw": "localhost:3080/Donation",
 							"host": [
-								"{{baseUrl}}"
+								"localhost:3080"
 							],
 							"path": [
 								"Donation"
@@ -2139,9 +2139,9 @@
 									}
 								},
 								"url": {
-									"raw": "{{baseUrl}}/Donation",
+									"raw": "localhost:3080/Donation",
 									"host": [
-										"{{baseUrl}}"
+										"localhost:3080"
 									],
 									"path": [
 										"Donation"
