@@ -2,7 +2,7 @@
 
 ### Overview
 
-A aplicação que desenvolvemos tem como função demonstrar uma camada de serviços REST protegida com uma camada de AUtenticação e Autorização para disponibilizar os recursos para uma apllicação Web.
+A aplicação que desenvolvemos tem como função demonstrar uma camada de serviços REST protegida com uma camada de Autenticação e Autorização para disponibilizar os recursos para uma apllicação Web.
 É possível não só obter animais, adoções, pessoas, voluntários e doações, mas também criar, eliminar e dar update.
 
 Projeto feito por:
@@ -42,18 +42,18 @@ Do a docker pull of the images:
 
 > Mysql:
 ```
-docker pull inf23dw2g03x/inf23dw2g03_M1:mysql
+docker pull inf23dw2g03/inf23dw2g03:mysql
 ```
 > NodeJS APP:
 ```
-docker pull inf23dw2g03x/inf23dw2g03_M1:node
+docker pull inf23dw2g03/inf23dw2g03:node
 ```
 
 ### Instruções para o código funcionar:
 
 > First, create a clone of the project from github to your machine:
 ```
-git clone: https://github.com/inf23dw2g03x
+git clone https://github.com/inf23dw2g03x/inf23dw2g03_M1.git
 ```
 
 > Second, inside of the project folder, open the terminal / prompt / bash and do npm install:
